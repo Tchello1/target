@@ -1,0 +1,29 @@
+1) 91
+
+3)
+A - 9
+B - 128
+C - 49
+D - 100
+E - 13
+F - 20
+
+4)
+
+vr = carro + caminhão
+vr = 110km/h + 80km/h
+vr = 190
+
+carro = 0 + 110.t
+
+caminhão = 100 - 80*t
+
+110*t = 100 - 80*t
+190t=100
+t = 100/190
+t = 0.52
+
+b ) o carro chega na frente
+
+c = Não sei se está certo então não sei explicar, só usei uma formula e tentei :D.
+
